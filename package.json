@@ -16,12 +16,12 @@
       "start": "node --optimize_for_size --max_old_space_size=460 src/darkalfha.js"
    },
    "bugs": {
-      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2/issues"
+      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2_/issues"
    },
-   "homepage": "https://github.com/Deep-Eagle/DARK-ALFHA_V2",
+   "homepage": "https://github.com/Deep-Eagle/DARK-ALFHA_V2_",
    "repository": {
       "type": "git",
-      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2.git"
+      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2_.git"
    },
    "dependencies": {
       "@consumet/extensions": "^1.4.17",
