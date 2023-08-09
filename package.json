@@ -1,0 +1,74 @@
+{
+   "name": "DAEK AHFHA",
+   "version": "0.0.1",
+   "description": "dark alfha based on JavaScript",
+   "author": "Deep-Eagle",
+   "main": "src/darkalfha.js",
+   "keywords": [
+      "Whatsapp",
+      "WhatsApp-Bot",
+      "bot",
+      "wabot"
+   ],
+   "license": "SEE LICENSE IN LICENSE.md",
+   "scripts": {
+      "format": "prettier --write --config .prettierrc.json \"src/**/*.js\"",
+      "start": "node --optimize_for_size --max_old_space_size=460 src/darkalfha.js"
+   },
+   "bugs": {
+      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2/issues"
+   },
+   "homepage": "https://github.com/Deep-Eagle/DARK-ALFHA_V2",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Deep-Eagle/DARK-ALFHA_V2.git"
+   },
+   "dependencies": {
+      "@consumet/extensions": "^1.4.17",
+      "@hapi/boom": "^10.0.0",
+      "@shineiichijo/canvas-chan": "^1.0.1",
+      "@whiskeysockets/baileys": "^6.4.0",
+      "api": "^5.0.8",
+      "axios": "^1.4.0",
+      "better-tord": "^1.3.7",
+      "bing-translate-api": "^2.9.0",
+      "bluebird": "^3.7.2",
+      "canvacord": "^5.4.8",
+      "canvas": "^2.11.2",
+      "chalk": "4.1.1",
+      "cheerio": "^1.0.0-rc.12",
+      "discord.js": "^14.7.1",
+      "dotenv": "^16.0.3",
+      "emoji-strip": "^1.0.1",
+      "express": "^4.18.2",
+      "fluent-ffmpeg": "^2.1.2",
+      "form-data": "^4.0.0",
+      "fs-extra": "^11.1.0",
+      "google-tts-api": "^2.0.2",
+      "googlethis": "^1.7.1",
+      "human-readable": "^0.2.1",
+      "linkifyjs": "^4.1.1",
+      "moment-timezone": "^0.5.40",
+      "mongoose": "^7.0.3",
+      "openai": "^3.2.1",
+      "os": "^0.1.2",
+      "parse-ms": "^2.1.0",
+      "path": "^0.12.7",
+      "pino": "^8.8.0",
+      "prettier": "^3.0.1",
+      "qr-image": "^3.2.0",
+      "qrcode-terminal": "^0.12.0",
+      "quick.db": "^9.0.5",
+      "quickmongo": "^5.2.0",
+      "remove.bg": "^1.3.0",
+      "simple-git": "^3.17.0",
+      "slot-machine": "^2.1.0",
+      "sort-array": "^4.1.5",
+      "spotifydl-x": "^0.3.5",
+      "wa-sticker-formatter": "^4.4.4",
+      "welcomer-gif": "^2.0.0",
+      "youtubedl-core": "^4.11.4",
+      "yt-search": "^2.10.4"
+   }
+}
+
