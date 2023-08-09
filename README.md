@@ -42,3 +42,21 @@
 Here's a tutorial to set up Krypton Bot on your own account in *less than 7 minutes.* The tutorial for which is attached below.
 
 [![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](######)
+
+```bash
+npm install
+```
+
+### Setup
+
+MONGODB URL එකක් අනිවාර්ය බැවින් MongoDB URL එකක් සාදාගන්නා ආකාරය tutorial video එකෙන් බලන්න
+
+```bash
+PREFIX=!
+MODS=94763407452
+PORT=3000
+WRITE_SONIC=
+BG_API_KEY=
+SESSION=ඔයා කැමති එකක් දෙන්න
+URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
+```
