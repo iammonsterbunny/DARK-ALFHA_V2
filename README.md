@@ -60,3 +60,9 @@ BG_API_KEY=
 SESSION=ඔයා කැමති එකක් දෙන්න
 URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
 ```
+
+##LAST UPDATE
+```bash
+DATE = 2023/10/8
+TIME = 7:11 PM
+```
