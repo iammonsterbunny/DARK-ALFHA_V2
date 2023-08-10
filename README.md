@@ -41,7 +41,7 @@
 
 Here's a tutorial to set up Krypton Bot on your own account in *less than 7 minutes.* The tutorial for which is attached below.
 
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](######)
+[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://youtu.be/ktpOhVyct9s)
 
 ```bash
 npm install
