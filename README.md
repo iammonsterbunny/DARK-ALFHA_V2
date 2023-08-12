@@ -1,5 +1,7 @@
 <div align="center">
-  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
+                                                                                                                                                                      </div>                                                                    
+  <div align="center">
   <img src="https://i.ibb.co/frfFSTL/1691320469926.jpg" width="150" height="150" border="0" alt="PFP">
 
 </div>
@@ -64,5 +66,12 @@ URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrite
 ##LAST UPDATE
 ```bash
 DATE = 2023/8/13
-TIME = 2:19 AM
+TIME = 2:48 AM
 ```
+
+<div align="center">
+
+### Thanks for team members
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=43FF0D&background=5BFF0000&center=true&vCenter=true&multiline=true&width=435&height=120&lines=DARK+ALFHA+TEME;MR+Ruchira;MR++SayitamAnuwa;MR+Madusanka" alt="Typing SVG" /></a>
+</div>
