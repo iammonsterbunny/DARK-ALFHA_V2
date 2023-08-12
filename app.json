@@ -19,23 +19,23 @@
          "required":true
       },
       "MODS":{
-         "description":"The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
+         "description":"ඔබට bot සඳහා පරිපාලක වීමට අවශ්‍ය පරිශීලකයින්ගේ දුරකථන අංක (+ නොමැතිව ජාත්‍යන්තර ආකෘතියෙන් තිබිය යුතු අතර බහු අංක කොමාවකින් වෙන් කළ යුතුය. \",\")",
          "required":true
       },
       "URL":{
-         "description":"A secret String for Mongodb Connection.(Required)",
+         "description":"MongoDB URL එක ඇතුලත් කරන්න",
          "required":true
       },
-      "WRITE_SONIC":{
+      "GPT":{
          "description":"A key used for Write Sonic",
-         "required":true
+         "required":false
       },
       "BG_API_KEY":{
          "description":"A key used for www.remove.bg",
-         "required":true
+         "required":false
       },
       "PORT":{
-         "description":"A port for your app",
+         "description":"3000 දෙන්න",
          "required":true
       }
    },
