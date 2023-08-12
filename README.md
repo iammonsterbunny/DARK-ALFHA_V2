@@ -36,7 +36,7 @@
   <a href="https://heroku.com/deploy?template=[https://github.com/Deep-Eagle/DARK-ALFHA_V2]https://github.com/Deep-Eagle/DARK-ALFHA_V2/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://repl.it/github/Deep-Eagle/DARK-ALFHA_V2"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
 </p>
-
+<p><a href="https://chat.whatsapp.com/KcPuqvBcES9Iv65QYxkvPT" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a></p>
 ## Tutorial
 
 Here's a tutorial to set up Krypton Bot on your own account in *less than 7 minutes.* The tutorial for which is attached below.
