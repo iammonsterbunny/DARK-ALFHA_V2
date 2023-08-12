@@ -63,6 +63,6 @@ URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrite
 
 ##LAST UPDATE
 ```bash
-DATE = 2023/8/10
-TIME = 11:00 PM
+DATE = 2023/8/12
+TIME = 6:35 PM
 ```
