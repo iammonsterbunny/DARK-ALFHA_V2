@@ -39,7 +39,7 @@
 <p><a href="https://chat.whatsapp.com/KcPuqvBcES9Iv65QYxkvPT" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a></p>
 ## Tutorial
 
-Here's a tutorial to set up Krypton Bot on your own account in *less than 7 minutes.* The tutorial for which is attached below.
+Here's a tutorial to set up Dark Alfha on your own account in *less than 7 minutes.* The tutorial for which is attached below.
 
 [![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://youtu.be/ktpOhVyct9s)
 
