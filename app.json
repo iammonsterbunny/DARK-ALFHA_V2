@@ -26,14 +26,6 @@
          "description":"MongoDB URL එක ඇතුලත් කරන්න",
          "required":true
       },
-      "GPT":{
-         "description":"A key used for Write Sonic",
-         "required":false
-      },
-      "BG_API_KEY":{
-         "description":"A key used for www.remove.bg",
-         "required":false
-      },
       "PORT":{
          "description":"3000 දෙන්න",
          "required":true
