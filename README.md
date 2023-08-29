@@ -6,17 +6,12 @@
 
 </div>
 
-<div align="center">
-
-  <img title="Whatsapp-Bot-Multi-Device" src="https://img.shields.io/badge/Whatsapp%20Bot%20Multi%20Device-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge">
-
-</div>
 
 
 ---
 
-<p align="center"> This whatsapp bot project use
-  <a href="https://github.com/adiwajshing/Baileys">Baileys Multi-Device.</a>
+<p align="center"> Dark Alfha සදහා භාවිතා කරපු project එක
+  <a href="https://github.com/Deep-Eagle/Baileys">Baileys.</a>
 </p>
 
 <p align="center">
@@ -65,8 +60,8 @@ URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrite
 
 ##LAST UPDATE
 ```bash
-DATE = 2023/8/13
-TIME = 3:54 PM
+DATE = 2023/8/29
+TIME = 9:51 PM
 ```
 
 <div align="center">
