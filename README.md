@@ -1,4 +1,4 @@
-## Dark Alfha Deploy කිරීමෙන් වලකින්න අද දවසේ පොඩි update එකක් නිසා bot Deploy කරන්න එපා
+
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
                                                                                                                                                                       </div>                                                                    
@@ -61,8 +61,8 @@ URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrite
 
 ##LAST UPDATE
 ```bash
-DATE = 2023/8/29
-TIME = 9:51 PM
+DATE = 2023/8/30
+TIME = 2:24 PM
 ```
 
 <div align="center">
