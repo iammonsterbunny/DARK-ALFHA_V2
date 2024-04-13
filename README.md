@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"> Dark Alfha සදහා භාවිතා කරපු project එක
+<p align="center"> The project used for Dark Alpha
   <a href="https://github.com/Deep-Eagle/Baileys">Baileys.</a>
 </p>
 
@@ -45,15 +45,14 @@ npm install
 
 ### Setup
 
-MONGODB URL එකක් අනිවාර්ය බැවින් MongoDB URL එකක් සාදාගන්නා ආකාරය tutorial video එකෙන් බලන්න
-
+Since a MONGODB URL is mandatory, watch the tutorial video on how to create a MongoDB URL
 ```bash
 PREFIX=!
-MODS=94763407452
+MODS=49#####
 PORT=3000
 WRITE_SONIC=
 BG_API_KEY=
-SESSION=ඔයා කැමති එකක් දෙන්න
+SESSION=Give me the one you like
 URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
 ```
 
