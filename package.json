@@ -1,5 +1,5 @@
 {
-  "name": "darkalfha",
+  "name": "ckptw-wabot",
   "version": "2.0.0",
   "description": "NodeJS WhatsApp Bot with oprn source.",
   "main": "index.js",
@@ -15,10 +15,7 @@
     "url": "git+https://github.com/iammonsterbunny/DARK-ALFHA_V2.git"
   },
   "keywords": [
-    "Whatsapp",
-      "WhatsApp-Bot",
-      "bot",
-      "wabot"
+    "bot"
   ],
   "author": "E.S. Team",
   "license": "MIT",
