@@ -1,71 +1,111 @@
-# COMING SOON
-                           
-  <div align="center">
+# DarkAlfha WhatsApp Bot
+<div align="center">
   <img src="https://i.ibb.co/frfFSTL/1691320469926.jpg" width="150" height="150" border="0" alt="PFP">
 
 </div>
+DarkAlfha WhatsApp Bot is a Node.js-based WhatsApp bot that provides various functionalities including information retrieval, media downloading, and more. This project utilizes the `@mengkodingan/ckptw` library to facilitate WhatsApp bot interactions.
 
+## Features
 
+- Owner Information Retrieval
+- Facebook Video Downloader
+- Instagram Media Downloader
+- Command Menu
+- Ping and Speed Check
+- Sticker Creation
+- Bot Uptime Information
 
+## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/iammonsterbunny/DARK-ALFHA_V2/tree/Open-Source.git
+    cd DARK-ALFHA_V2-Open-Source
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+
+3. **Configure the bot:**
+    Modify the `config.js` file with your details:
+    ```js
+    // Main
+    global.organization = 'yourbot name';
+    global.ownername = 'your name';
+    global.owner = 'your number ex: 491234567890';
+
+    // Sticker
+    global.packname = 'Take care of yourself.';
+    global.author = '@iammonsterbunny';
+    ```
+
+4. **Start the bot:**
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+Once the bot is running, you can interact with it through WhatsApp by sending the following commands:
+
+### Info Commands
+- **Ping**: Checks the bot's responsiveness.
+    ```text
+    /ping
+    ```
+- **Speed**: Measures the bot's response speed.
+    ```text
+    /speed
+    ```
+- **Owner Information**: Retrieves the owner's contact information.
+    ```text
+    /owner
+    ```
+
+### Downloader Commands
+- **Facebook Video Downloader**: Downloads videos from Facebook.
+    ```text
+    /fbdl [Facebook URL]
+    ```
+- **Instagram Media Downloader**: Downloads media from Instagram.
+    ```text
+    /igdl [Instagram URL]
+    ```
+
+### Main Commands
+- **Menu**: Displays the list of available commands.
+    ```text
+    /menu
+    ```
+
+### Converter Commands
+- **Sticker**: Creates a sticker from an image or video.
+    ```text
+    /sticker
+    ```
+
+### Additional Commands
+- **Uptime**: Displays how long the bot has been running.
+    ```text
+    /uptime
+    ```
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [@mengkodingan/ckptw](https://github.com/mengkodingan/ckptw)
+- [wa-sticker-formatter](https://github.com/adiwajshing/Baileys)
+- [api-dylux](https://github.com/dylux/api-dylux)
+- [bochilteam/scraper](https://github.com/BochilTeam/scraper)
 ---
 
-<p align="center"> The project used for Dark Alpha
-  <a href="https://github.com/Deep-Eagle/Baileys">Baileys.</a>
-</p>
-
-<p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
-<a href="www.mongodb.com"> <img title="Whatsapp-Bot-Mongo" src="https://img.shields.io/badge/mongoDB-033604?style=for-the-badge&logo=mongodb&logoColor=47A248"></img> </a>
-</p>
-
----
-
-<p align="center">
-  The Creatordark <a href="https://github.com/Deep-Eagle"><b> DEEP EAGLE </b></a>
-</p>
-
-<p align="center">
-<img title="Whatsapp-Bot-Server" src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></img>
-  <a href="https://railway.app/new/template"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
-</p>
-<p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Deep-Eagle/DARK-ALFHA_V2/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://repl.it/github/Deep-Eagle/DARK-ALFHA_V2"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-</p>
-<p><a href="https://chat.whatsapp.com/KcPuqvBcES9Iv65QYxkvPT" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a></p>
-## Tutorial
-
-Here's a tutorial to set up Dark Alfha on your own account in *less than 7 minutes.* The tutorial for which is attached below.
-
-[![How to deploy](https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube)](https://youtu.be/ktpOhVyct9s)
-
-```bash
-npm install
-```
-
-### Setup
-
-Since a MONGODB URL is mandatory, watch the tutorial video on how to create a MongoDB URL
-```bash
-PREFIX=!
-MODS=49#####
-PORT=3000
-WRITE_SONIC=
-BG_API_KEY=
-SESSION=Give me the one you like
-URL=mongodb+srv://<username>:<password>@cluster0.xxwc771.mongodb.net/?retryWrites=true&w=majority
-```
-
-##LAST UPDATE
-```bash
-DATE = 2023/11/11
-TIME = 12:45 am
-```
-
-<div align="center">
-
-### Thanks for team members
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF700&background=00FFF300&multiline=true&random=false&width=435&height=100&lines=Dark+Alfha+group;MR+Vihanga+Theekshana+;MR+Ruchira+" alt="Typing SVG" /></a>
-
-</div>
+Created by E.S. Team. Take care of yourself.
